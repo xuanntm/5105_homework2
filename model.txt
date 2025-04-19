@@ -1,2 +1,2 @@
 
-linear regression to estimate causal effects when assume a linear relationship between treatment and outcome.
+linear regression to estimate causal effects when assume a linear relationship between treatment (W, X) and outcome (Y).
